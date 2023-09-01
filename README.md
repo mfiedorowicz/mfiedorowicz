@@ -4,6 +4,6 @@ I'm Michal, senior software engineer with 15+ years of experience living in Lond
 
 Work mostly with Go programming language.
 
-Interested in platform and devops/infrastructure focused roles, to provide great tools and processes enabling self-service capabilities for engineering organisations.
+Interested in platform and devops/infrastructure related work.
 
 🤘
